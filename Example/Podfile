@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZZLoading_Example' do
+  pod 'ZZLoading', :path => '../'
+
+  target 'ZZLoading_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
