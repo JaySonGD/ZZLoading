@@ -1,0 +1,16 @@
+PODS:
+  - ZZLoading (0.1.0)
+
+DEPENDENCIES:
+  - ZZLoading (from `../`)
+
+EXTERNAL SOURCES:
+  ZZLoading:
+    :path: ../
+
+SPEC CHECKSUMS:
+  ZZLoading: c10f02a9e7a7884691428b510b73478249c97ac9
+
+PODFILE CHECKSUM: 7e8baf10eccf9c324335c58606244576bbb13a51
+
+COCOAPODS: 1.4.0
